@@ -30,7 +30,6 @@ Besides, we also supported many CEXes, including:
 - [FTX](https://ftx.com/)
 - [Gate.io](https://www.gate.io/)
 - [Hotbit](https://www.hotbit.io/)
-- [Huobi](https://www.huobi.com/)
 - [KuCoin](https://www.kucoin.com/)
 - [MXC](https://www.mexc.com/)
 - [OKEx](https://www.okex.com/)
